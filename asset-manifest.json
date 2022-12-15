@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BrandonHaupt/Week-13-React/static/css/main.724d3bb0.css",
+    "main.js": "/BrandonHaupt/Week-13-React/static/js/main.8f98fd3a.js",
+    "static/js/787.a6abf625.chunk.js": "/BrandonHaupt/Week-13-React/static/js/787.a6abf625.chunk.js",
+    "index.html": "/BrandonHaupt/Week-13-React/index.html",
+    "main.724d3bb0.css.map": "/BrandonHaupt/Week-13-React/static/css/main.724d3bb0.css.map",
+    "main.8f98fd3a.js.map": "/BrandonHaupt/Week-13-React/static/js/main.8f98fd3a.js.map",
+    "787.a6abf625.chunk.js.map": "/BrandonHaupt/Week-13-React/static/js/787.a6abf625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724d3bb0.css",
+    "static/js/main.8f98fd3a.js"
+  ]
+}

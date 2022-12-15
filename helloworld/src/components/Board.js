@@ -1,5 +1,19 @@
+import Square from "./Square"
+
 function Board() {
-    return <h1>Board</h1>
+    return(<>
+        <div class="boardSquare">
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+        <Square/>
+      </div>
+    </>)
 }
 
 export default Board
